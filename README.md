@@ -25,4 +25,6 @@ Excel dosyasını indirin.
 Dosyayı açtığınızda "İçeriği Etkinleştir" veya "Makroları Etkinleştir" butonuna basarak VBA kodlarının çalışmasına izin verin.
 
 Dashboard üzerindeki interaktif butonları kullanarak fakülte, bölüm ve kampüs verileri arasında gezinebilirsiniz. 
+
 not:// localde çalışılmıştır intirilen dosya hata verebilir.
+
